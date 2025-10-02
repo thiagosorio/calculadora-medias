@@ -60,6 +60,10 @@ form button {
     padding: 8px;
 }
 
+form button:hover {
+    background-color: rgba(0, 148, 50, 0.8);
+}
+
 table {
     width: 100%;
 }
